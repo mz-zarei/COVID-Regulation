@@ -6,3 +6,6 @@ Our most significant contributions are:
 COVID-19 new cases trend
 - A classification MLP and a regression MLP are developed based on the proposed labeling methods
 in order to predict and compare the effectiveness of policies
+- A time series forecasting model has been developed using a recent method called Temporal Fusion
+Transformer which can estimate the trend of new cases considering historical trend and applied
+policies.
